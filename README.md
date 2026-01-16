@@ -15,16 +15,10 @@ A hub of all my AI Club projects at Oregon State University: Projects, Competiti
 - Building an edge-based video monitoring system with AWS backend, cloud-efficient AI detection, and a dashboard, collaborating with the team via GitHub.
 
 
-#### 🛠 Technical Skills
+#### Technical Skills
 - **Languages:** `C++`, `Python`, `Java`, `C`, `Assembly` • **AI/ML:** `scikit-learn`, `numpy`, `Pandas`
 
-  
-#### Interests
-- Artificial Intelligence & Machine Learning
-- Systems & Software Engineering
-
 #### Contact
-- Always open to internships, research, and learning opportunities.
 - LinkedIn: [https://linkedin.com/in/calvinGrabowksi](https://www.linkedin.com/in/calvin-grabowski)
 - Email: [calvingrabowski@gmail.com](mailto:calvingrabowski@gmail.com)
 
