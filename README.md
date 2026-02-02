@@ -11,7 +11,7 @@ A hub of all my AI Club projects at Oregon State University: Projects, Competiti
 - Served predictions with a FastAPI backend and visualized mood distributions using Matplotlib
   
 ### In-Progress Project: [EdgeGuard Hybrid Intelligence](https://github.com/3EEEs/EdgeGuard-Hybrid-Intelligence)
-- **Role:** API & Cloud Integration Lead  
+- **Role:** Motion Detection Lead 
 - Building an edge-based video monitoring system with AWS backend, cloud-efficient AI detection, and a dashboard, collaborating with the team via GitHub.
 
 
