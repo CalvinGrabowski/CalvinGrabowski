@@ -21,8 +21,8 @@ A hub of all my AI Club projects at Oregon State University: Projects, Competiti
 - **Languages:** `C++`, `Python`, `Java`, `C`, `Assembly` • **AI/ML:** `scikit-learn`, `numpy`, `Pandas`
 
 #### Contact
-- LinkedIn: [https://linkedin.com/in/calvinGrabowksi](https://www.linkedin.com/in/calvin-grabowski)
+- LinkedIn: [https://linkedin.com/in/calvin-grabowski](https://www.linkedin.com/in/calvin-grabowski)
 - Email: [calvingrabowski@gmail.com](mailto:calvingrabowski@gmail.com)
-- Portfolio: [https://calvingrabowski.github.io/](https://calvingrabowski.github.io/)
+- Portfolio: [https://calvingrabowski.github.io](https://calvingrabowski.github.io)
 
 
