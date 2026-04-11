@@ -10,9 +10,12 @@ A hub of all my AI Club projects at Oregon State University: Projects, Competiti
 - Built a web app that classifies Spotify playlist moods using a trained ML model, retrieving track/audio features via Spotipy and RapidAPI
 - Served predictions with a FastAPI backend and visualized mood distributions using Matplotlib
   
-### In-Progress Project: [EdgeGuard Hybrid Intelligence](https://github.com/3EEEs/EdgeGuard-Hybrid-Intelligence)
+### Featured Project: [EdgeGuard Hybrid Intelligence](https://github.com/3EEEs/EdgeGuard-Hybrid-Intelligence)
 - **Role:** Motion Detection Lead 
-- Building an edge-based video monitoring system with AWS backend, cloud-efficient AI detection, and a dashboard, collaborating with the team via GitHub.
+- Built an edge-based video monitoring system with AWS backend, cloud-efficient AI detection, and a dashboard, collaborating with a four person team
+
+### Current Project: [Keyword Analyzer](https://github.com/CalvinGrabowski/Keyword-Analyzer)
+- Creating a job helper website that takes a job description, a resume, and a cover letter and shows how fit you are for the job, and what you could add to your resume or cover letter to make you a better candidate
 
 
 #### Technical Skills
